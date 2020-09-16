@@ -3,5 +3,6 @@
     <dimen name="margin_wide_left">16dp</dimen>
     <dimen name="margin_wide_top">16dp</dimen>
     <dimen name="margin_wide_right">16dp</dimen>
+    <dimen name="margin_wide_bottom">16dp</dimen>
     <dimen name="box_text_size">24sp</dimen>
 </resources>
